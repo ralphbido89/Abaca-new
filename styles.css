@@ -21,6 +21,10 @@
     list-style: none;
 }
 
+.address {
+    margin-top: 1.5rem;
+}
+
 .title {
     font-family: 'Dancing Script', cursive;
     font-weight: 600;
